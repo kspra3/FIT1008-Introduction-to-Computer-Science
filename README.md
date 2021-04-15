@@ -1,1 +1,1 @@
-# FIT2102-Introduction-to-Computer-Science
+# FIT1008-Introduction-to-Computer-Science
